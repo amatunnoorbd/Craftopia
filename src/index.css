@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.nav-bg {
+  background-color: #002147;
+}
+
+.nav-border {
+  border-bottom: 3px solid #FFB606;
+}
+
+.view-details {
+  border-radius: 10px;
+  background: rgb(35, 190, 10);
+  padding: 8px 18px;
+  font-size: 18px;
+  font-weight: 500;
+  color:white
+}
